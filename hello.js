@@ -1,5 +1,7 @@
-function hello(name)
-     { if (name) { 
+
+
+function hello(name) {
+     if (name) { 
          console.log('Hello, ' + name)
      } 
      else { 
@@ -8,3 +10,4 @@ function hello(name)
 } 
 
 hello()
+
